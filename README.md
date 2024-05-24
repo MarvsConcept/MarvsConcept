@@ -7,11 +7,7 @@ About Me 👋 Hi there! I’m Marvellous Adekunle a passionate Backend Developer
 * ✉️  You can contact me at [marvade8@gmail.com](mailto:marvade8@gmail.com)
 * 🤝  I'm open to collaborating on Internships and Job opportunities
 * ⚡  I Love Martial arts & i have a Red belt in Taekwondo
-
-<a href="https://www.github.com/Marvsconcept" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Marvsconcept?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/OfficialMarvade" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/OfficialMarvade?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+-------------------------------------
 
 ### Skills
 
