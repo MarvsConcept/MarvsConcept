@@ -5,7 +5,7 @@ About Me 👋 Hi there! I’m Marvellous Adekunle a passionate Backend Developer
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [marvade8@gmail.com](mailto:marvade8@gmail.com)
 * 🤝  I'm open to collaborating on Internships and Job opportunities
-* ⚡  I Love Martial arts & i have a Red belt in Taekwondo
+* ⚡  I Love Martial arts & i have a Black Belt in Taekwondo
 
 
 ## Education
