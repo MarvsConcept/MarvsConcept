@@ -1,16 +1,14 @@
 # Backend Developer || Python Developer
 
-About Me 👋 Hi there! I’m Marvellous Adekunle a passionate Backend Developer specializing in Python. With a strong foundation in building robust, scalable web applications, I thrive on solving complex problems and optimizing performance. My tech stack includes Django, and FastAPI, and I'm experienced with various databases like PostgreSQL, MySQL, and MongoDB. I enjoy writing clean, maintainable code and continually learning new technologies to keep my skills sharp. Let's connect and collaborate on exciting projects!
+About Me 👋 Hi there! I’m Marvellous Adekunle a passionate Backend Developer specializing in Python. With a strong foundation in building robust, scalable web applications, I thrive on solving complex problems and optimizing performance. My tech stack includes Pyython, Django, and Djangorestframwork, and I'm experienced with various databases like PostgreSQL, MySQL, and MongoDB. I enjoy writing clean, maintainable code and continually learning new technologies to keep my skills sharp. Let's connect and collaborate on exciting projects!
 
-* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [marvade8@gmail.com](mailto:marvade8@gmail.com)
-* 🤝  I'm open to collaborating on Internships and Job opportunities
+* 🤝  I'm open to collaborations and Job opportunities
 * ⚡  I Love Martial arts & i have a Black Belt in Taekwondo
 
 
 ## Education
-2018 - Present, Bachelor of Remote Sensing and Gis at the Federal University Of Technology Akure
-
+Bachelor of Technology, Remote Sensing and GeoScience Information System
 
 ## Skills
 <p align="left">
