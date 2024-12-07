@@ -33,7 +33,6 @@ Bachelor of Technology, Remote Sensing and GeoScience Information System
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Marvsconcept"><img src="https://github-readme-stats.vercel.app/api?username=Marvsconcept&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Marvsconcept's GitHub stats" /></a>
 
 <a href="http://www.github.com/Marvsconcept"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvsconcept&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
