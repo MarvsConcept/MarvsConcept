@@ -8,6 +8,7 @@ Hi there! I’m Marvellous Adekunle a passionate Backend Developer specializing 
 * ⚡  I Love Martial arts & i have a Black Belt in Taekwondo
 
 
+
 ## Education
 Bachelor of Technology, Remote Sensing and GeoScience Information System
 
